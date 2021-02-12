@@ -40,6 +40,3 @@ DELETE	api/tutorials	             remove all Tutorials
 GET	    api/tutorials/published	     find all published Tutorials
 GET	    api/tutorials?title=[kw]	 find all Tutorials which title contains 'kw'
 
-
-#Refrence:
-  https://bezkoder.com/react-node-express-mongodb-mern-stack/
